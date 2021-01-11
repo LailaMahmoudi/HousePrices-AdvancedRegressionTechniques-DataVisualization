@@ -41,3 +41,4 @@ Kaggle Competition : Predicting house prices using a collection of advanced regr
 -[xgboost](https://xgboost.readthedocs.io/en/latest/build.html)
 
 
+[STEP 1 : Loading the libraries 📚 & the dataset & STEP 2 : Data Visualization📊📈](https://nbviewer.jupyter.org/github/LailaMahmoudi/HousePrices-AdvancedRegressionTechniques-DataVisualization/blob/1924b64bbc22ac48984942a434e15618925df27b/STEP%201%20Loading%20the%20libraries%20%F0%9F%93%9A%20&%20the%20dataset%20&%20STEP%202%20%20Data%20Visualization%F0%9F%93%8A%F0%9F%93%88.ipynb)
